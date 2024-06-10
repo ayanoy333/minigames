@@ -1,5 +1,5 @@
 # minigames
-'''mermaid
+:::mermaid
 graph TD;
     First(Top画面)-->B{何をするか};
     B-->|ボタン押下|C(難易度選択)
@@ -14,4 +14,4 @@ graph TD;
         G-->|Topに戻る|L(Top画面)
         F-->|Topに戻る|L(Top画面)
 
-'''
+:::
